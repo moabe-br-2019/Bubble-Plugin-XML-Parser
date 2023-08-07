@@ -1,0 +1,21 @@
+{
+    "caption": "Parse XML",
+    "fields": {
+        "AAH": {
+            "caption": "URL File",
+            "doc": "Type here the URL of your XML File",
+            "editor": "DynamicValue",
+            "name": "file",
+            "rank": 0,
+            "value": "file"
+        },
+        "AAI": {
+            "caption": "Tag Name",
+            "doc": "Type here the name of the tag that are you looking for parse.",
+            "editor": "DynamicValue",
+            "name": "tag_name",
+            "rank": 1,
+            "value": "text"
+        }
+    }
+}

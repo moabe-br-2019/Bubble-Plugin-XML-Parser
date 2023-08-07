@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAJ": {
+            "name": "icon",
+            "url": "//meta-l.cdn.bubble.io/f1691435282200x335824927391982660/xml_icon.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}

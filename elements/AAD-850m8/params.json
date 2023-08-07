@@ -1,0 +1,22 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 40,
+        "width": 40
+    },
+    "display": "XML Parser",
+    "fields": {
+    },
+    "icon": "ion-android-checkbox-blank",
+    "states": {
+        "AAF": {
+            "caption": "XML Parsed Value",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "xml_parsed_value",
+            "value": "text"
+        }
+    }
+}

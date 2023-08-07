@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "productivity"
+    },
+    "description": "The XML Parser Plugin for Bubble simplifies and streamlines the task of parsing XML files, allowing you to access the necessary data without the need for advanced technical knowledge. With this plugin, you will have the ability to unlock valuable information and seamlessly integrate it into your existing applications and workflows, providing a more effective and efficient experience for you and your users.",
+    "image": "//meta-l.cdn.bubble.io/f1691435763093x967034366126567300/Design%20sem%20nome%20%287%29.png",
+    "license": "open_source",
+    "link": "https://moabeplugins.bubbleapps.io/version-test/xml_parser",
+    "name": "XML Parser",
+    "sa_node_version": 18
+}
